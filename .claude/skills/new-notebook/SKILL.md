@@ -37,7 +37,7 @@ The user will provide (or you should ask for):
 4. **Write all three files** into the specified Track folder.
 
 5. **Remind the user** to:
-   - Add the three Colab badge links to `README.md` (pattern: `https://colab.research.google.com/github/jolayfield/chem-lab-tutorials/blob/main/<TrackFolder>/<name>_student.ipynb`)
+   - Add the three Colab badge links to `README.md` (pattern: `https://colab.research.google.com/github/layfield-lab/chem-lab-tutorials/blob/main/<TrackFolder>/<name>_student.ipynb`)
    - Run the setup cell locally or on Colab to verify the install step works.
 
 ## Notebook JSON template
