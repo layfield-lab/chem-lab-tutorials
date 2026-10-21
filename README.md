@@ -18,7 +18,7 @@ Interactive Jupyter notebooks for students learning computational and data analy
 
 | Notebook | Open in Colab |
 |----------|--------------|
-| Python for Chemists — Part 1: Core Concepts | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jolayfield/chem-lab-tutorials/blob/main/python_for_chemists_part1.ipynb) |
+| Python for Chemists — Part 1: Core Concepts | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/layfield-lab/chem-lab-tutorials/blob/main/python_for_chemists_part1.ipynb) |
 
 ---
 
@@ -28,10 +28,10 @@ Work with real Gaussian 16 output files using Python. No Gaussian license requir
 
 | Notebook | Open in Colab |
 |----------|--------------|
-| Introduction to Python for Computational Chemistry | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jolayfield/chem-lab-tutorials/blob/main/Track1_Gaussian/gaussian_python_intro.ipynb) |
-| Part 2: Parsing Gaussian 16 Output Files | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jolayfield/chem-lab-tutorials/blob/main/Track1_Gaussian/part2_student.ipynb) |
-| Part 3: Structure Alignment with AaronTools | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jolayfield/chem-lab-tutorials/blob/main/Track1_Gaussian/part3_student.ipynb) |
-| Part 4: Thermochemistry from Gaussian Output | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jolayfield/chem-lab-tutorials/blob/main/Track1_Gaussian/part4_demo.ipynb) |
+| Introduction to Python for Computational Chemistry | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/layfield-lab/chem-lab-tutorials/blob/main/Track1_Gaussian/gaussian_python_intro.ipynb) |
+| Part 2: Parsing Gaussian 16 Output Files | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/layfield-lab/chem-lab-tutorials/blob/main/Track1_Gaussian/part2_student.ipynb) |
+| Part 3: Structure Alignment with AaronTools | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/layfield-lab/chem-lab-tutorials/blob/main/Track1_Gaussian/part3_student.ipynb) |
+| Part 4: Thermochemistry from Gaussian Output | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/layfield-lab/chem-lab-tutorials/blob/main/Track1_Gaussian/part4_demo.ipynb) |
 
 **Packages installed automatically:** `AaronTools` (Parts 3 only). Parts 1, 2, and 4 use only the Python standard library plus `numpy` and `matplotlib`, which are pre-installed in Colab.
 
@@ -43,9 +43,9 @@ Analyze MD simulation trajectories using Python. The first two notebooks use a b
 
 | Notebook | Open in Colab |
 |----------|--------------|
-| Part 1: Core Concepts (Data Analysis) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jolayfield/chem-lab-tutorials/blob/main/Track2_MDAnalysis/part1_student.ipynb) |
-| Introduction to MDAnalysis: Analyzing Peptide Simulations | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jolayfield/chem-lab-tutorials/blob/main/Track2_MDAnalysis/mdanalysis_intro_student.ipynb) |
-| OPES Multithermal Simulation of a Tetrapeptide: MDAnalysis Meets PLUMED | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jolayfield/chem-lab-tutorials/blob/main/Track2_MDAnalysis/opes_multithermal_student.ipynb) |
+| Part 1: Core Concepts (Data Analysis) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/layfield-lab/chem-lab-tutorials/blob/main/Track2_MDAnalysis/part1_student.ipynb) |
+| Introduction to MDAnalysis: Analyzing Peptide Simulations | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/layfield-lab/chem-lab-tutorials/blob/main/Track2_MDAnalysis/mdanalysis_intro_student.ipynb) |
+| OPES Multithermal Simulation of a Tetrapeptide: MDAnalysis Meets PLUMED | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/layfield-lab/chem-lab-tutorials/blob/main/Track2_MDAnalysis/opes_multithermal_student.ipynb) |
 
 **Packages installed automatically:** `MDAnalysis`, `MDAnalysisTests`. `numpy`, `matplotlib`, and `pandas` are pre-installed in Colab.
 
@@ -61,9 +61,9 @@ Covers PLUMED enhanced sampling, neural network foundations with PyTorch, and ma
 
 | Notebook | Open in Colab |
 |----------|--------------|
-| PLUMED: Collective Variables, Analysis, and OPES Enhanced Sampling | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jolayfield/chem-lab-tutorials/blob/main/Track3_PLUMED/plumed_tutorial.ipynb) |
-| Introduction to Neural Networks with PyTorch | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jolayfield/chem-lab-tutorials/blob/main/Track3_PLUMED/nn_intro_pytorch.ipynb) |
-| Machine-Learned CVs with mlcolvar: Deep-LDA and Deep-TICA | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jolayfield/chem-lab-tutorials/blob/main/Track3_PLUMED/mlcolvar_deeplda_deeptica.ipynb) |
+| PLUMED: Collective Variables, Analysis, and OPES Enhanced Sampling | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/layfield-lab/chem-lab-tutorials/blob/main/Track3_PLUMED/plumed_tutorial.ipynb) |
+| Introduction to Neural Networks with PyTorch | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/layfield-lab/chem-lab-tutorials/blob/main/Track3_PLUMED/nn_intro_pytorch.ipynb) |
+| Machine-Learned CVs with mlcolvar: Deep-LDA and Deep-TICA | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/layfield-lab/chem-lab-tutorials/blob/main/Track3_PLUMED/mlcolvar_deeplda_deeptica.ipynb) |
 
 **Recommended order:** PLUMED tutorial → NN intro → mlcolvar. Each notebook builds on the previous.
 
