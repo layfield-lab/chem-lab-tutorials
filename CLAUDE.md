@@ -4,7 +4,7 @@
 
 This repository contains interactive Jupyter notebooks for students learning computational chemistry and molecular simulation analysis. All notebooks are designed to run on **Google Colab** with no local installation — each notebook has a setup cell that installs required packages and embeds or downloads necessary data files.
 
-GitHub repo: `jolayfield/chem-lab-tutorials`
+GitHub repo: `layfield-lab/chem-lab-tutorials`
 Contact: jolayfield@gmail.com
 
 ---
